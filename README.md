@@ -1,7 +1,7 @@
 # Recommend-a-movie
 This is a movie Recommendation project
 
-Introduction
+## Introduction
  The Movie Recommendation System is a Python-based project that suggests movies to users based on their preferences. 
 The system leverages data from The Movie Database (TMDB) and utilizes machine learning and natural language processing (NLP) techniques to recommend similar movies. 
 Additionally, it displays movie posters to enhance user experience. 

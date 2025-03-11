@@ -59,7 +59,7 @@ Natural Language Processing :
 - 
 ### Machine Learning Model : 
 -  Cosine Similarity is used to find movies similar to the user’s choice by comparing vectorized movie descriptions.
--  
+  
 ### User Interface :
 Users input a movie name.
 The system displays recommended movies with posters.
@@ -80,10 +80,10 @@ Using deep learning models for improved similarity detection.
 Enhancing the UI with additional features like user reviews and trailers.
 
 ## References
-TMDB API Documentation **https://www.themoviedb.org/settings/api**
-Scikit-learn Documentation **https://scikit-learn.org/stable/index.html**
-NLTK Documentation **https://www.nltk.org/**
-Streamlit Documentation **https://docs.streamlit.io/**
+- TMDB API Documentation **https://www.themoviedb.org/settings/api**
+- Scikit-learn Documentation **https://scikit-learn.org/stable/index.html**
+- NLTK Documentation **https://www.nltk.org/**
+- Streamlit Documentation **https://docs.streamlit.io/**
 
 
 
